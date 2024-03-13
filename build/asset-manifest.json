@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/agri-connect/static/css/main.974da663.css",
+    "main.js": "/agri-connect/static/js/main.c5f956e8.js",
+    "static/media/deccani.jpeg": "/agri-connect/static/media/deccani.d26d1ca2c21af03b60d3.jpeg",
+    "static/media/linkImage1.jpeg": "/agri-connect/static/media/linkImage1.692e892a2b64783b356e.jpeg",
+    "static/media/agriConnect.png": "/agri-connect/static/media/agriConnect.9549d74a51d47883d2d0.png",
+    "static/media/linkImage3.jpeg": "/agri-connect/static/media/linkImage3.127e2c026364857f3d62.jpeg",
+    "static/media/fish.jpeg": "/agri-connect/static/media/fish.27c650309065677340ac.jpeg",
+    "static/media/pig.jpeg": "/agri-connect/static/media/pig.61c64ce2c76e9d84bd3d.jpeg",
+    "static/media/mandyaSheep.jpeg": "/agri-connect/static/media/mandyaSheep.141087d50c9615adb43e.jpeg",
+    "static/media/vemdubur.jpeg": "/agri-connect/static/media/vemdubur.8bc263915ef648d076c1.jpeg",
+    "static/media/linkImage5.jpg": "/agri-connect/static/media/linkImage5.58c473adfd6cef344148.jpg",
+    "static/media/nillore.jpeg": "/agri-connect/static/media/nillore.4bc8b45b25a144a1aab7.jpeg",
+    "static/media/chillired.jpeg": "/agri-connect/static/media/chillired.ff3b88aa7631b4b0b28a.jpeg",
+    "static/media/linkImage2.jpeg": "/agri-connect/static/media/linkImage2.aa2c3adb00bd95aa2ad1.jpeg",
+    "static/media/linkImage4.jpeg": "/agri-connect/static/media/linkImage4.c1c4c15783cc06d8dde2.jpeg",
+    "index.html": "/agri-connect/index.html",
+    "main.974da663.css.map": "/agri-connect/static/css/main.974da663.css.map",
+    "main.c5f956e8.js.map": "/agri-connect/static/js/main.c5f956e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974da663.css",
+    "static/js/main.c5f956e8.js"
+  ]
+}
